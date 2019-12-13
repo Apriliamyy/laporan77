@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 april yang ubah
 dwi ubah laggi
+=======
+>>>>>>> parent of 712dd22... april ubah 1
